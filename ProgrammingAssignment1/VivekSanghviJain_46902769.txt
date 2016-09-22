@@ -1,0 +1,10 @@
+Vivek Sanghvi Jain	
+SMU ID: 
+
+hello.c - Done
+words.c - Not Done
+fact.c - Done
+point.c, point.h, testPoint.c- Done		//Compile the file with the command: gcc -o tp testPoint.c point.c -lm
+
+Edited on Wednesday, September 7 2016 :
+Please have a look at the screenshots to see compiler instructions. Apart from the first file hello.c, for which,the file f has to be executed . All other files have used the same names as shown by the Professor in the word document.
