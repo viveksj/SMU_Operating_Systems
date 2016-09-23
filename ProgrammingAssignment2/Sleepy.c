@@ -1,4 +1,7 @@
+//©Vivek Sanghvi Jain
+//Fall 2016
 //OS ASsignment 2 Q1
+
 #include<sys/types.h>
 #include<stdio.h>
 #include<stdlib.h>
